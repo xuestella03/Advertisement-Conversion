@@ -1,5 +1,5 @@
 # Advertisement Conversion Modeling
-[`AdvertisementConversion.ipynb`](AdvertisementConversion/AdvertisementConversion.ipynb) is a classification model for predicting advertisement conversions and non-conversions. 
+[`AdvertisementConversion.ipynb`](AdvertisementConversion.ipynb) is a classification model for predicting advertisement conversions and non-conversions. 
 
 In this program, the conversion and nonconversion data is split into training and testing data and cleaned for modeling. 
 
@@ -12,8 +12,8 @@ The next section ("Data Classification Model") provides the implementation of th
 Additional analyses are provided at the end of each subsection.
 
 A sample analysis is included in this repository:
-- Descriptive statistics and histograms of an example set are in the file [`sample.pdf`](AdvertisementConversion/sample.pdf).
-- A report on the usability of the model (model metrics, data suitability, and features available) is included in the file [`analysis.pdf`](AdvertisementConversion/analysis.pdf).
+- Descriptive statistics and histograms of an example set are in the file [`sample.pdf`](sample.pdf).
+- A report on the usability of the model (model metrics, data suitability, and features available) is included in the file [`analysis.pdf`](analysis.pdf).
 
 
 ## Installation
